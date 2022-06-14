@@ -17,7 +17,6 @@ from dateutil.parser import parse
 import datetime
 from scipy import stats
 import plotly.graph_objects as go
-os.chdir("/Users/sam_b/OneDrive/Documents/All Work/Data Analysis/Python/Github/Football Stocks")
 
 
 # In[16]:
