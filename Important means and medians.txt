@@ -1,0 +1,107 @@
+1.	Juventus
+
+
+# Win vs Draw all competitions 17/18  ( GTG )    
+# mean: 0.0064, median: 0.0007 (W) vs (D) mean: -0.02, median: -0.005 
+
+# Win vs Draw domestic competitions 17/18     GTG         
+# mean: 0.0067, median: 0.001 (W) vs (D) mean: -0.04, median: -0.05
+
+# Win vs Draw all competitions 17/18          NWD
+# mean: 0.006, median: 0.005 (W) vs (D) mean: -0.02, median: -0.02
+
+# Win vs Loss all competitions 18/19          NWD
+# mean: 0.01, median: 0.07 (W) vs (L) mean: -0.06, median: -0.02
+
+# All results vs UCL results 2018/19          GTG
+# mean: 0.01, median: 0.008 (A) vs (UCL) mean: -0.047, median: -0.05
+
+# UCL vs domestic results 2018/19             GTG
+# mean: -0.047, median: -0.05 (UCL) vs (Dom) mean: 0.03, median: 0.017
+
+
+
+2.	Roma
+
+
+Win vs Loss All Competitions 17/18 GTG
+
+# mean: 0.0062, median: 0.0007 (W) vs (L) mean: -0.04, median: -0.02  
+
+Win vs Loss All Competitions 17/18 NWD
+
+# mean: 0.016, median: 0.004 (W) vs (L) mean: -0.03, median: -0.03 
+
+Win vs Loss Domestic Competitions 17/18 NWD
+
+# mean: 0.02, median: 0.005 (W) vs (L) mean: -0.03, median: -0.03 
+
+Draw vs Loss All Competitions NWD
+# mean: -0.01, median: -0.01 (D) vs (L) mean: -0.03, median: -0.03
+
+
+
+
+3.	Lazio
+
+
+Win vs Loss All Competitions 17/18 GTG
+
+# mean: 0.037, median: 0.0096 (W) vs (L) mean: -0.042, median: -0.069 
+
+Win vs Loss Domestic Competitions 17/18 GTG
+
+# mean: 0.048, median:0.014 (W) vs (L) mean: -0.049, median: -0.074  
+
+Win vs Loss All Competitions 18/19 GTG
+
+# mean: 0.00056, median: 0.0074 (W) vs (L) mean: -0.015, median: -0.013    
+
+
+Win vs Loss All Competitions 17/18 NWD
+
+# mean: 0.015, median: 0.00096 (W) vs (L) mean: -0.027, median: -0.032 
+
+Win vs Draw All Competitions 17/18 NWD
+
+# mean: 0.015, median: 0.00096 (W) vs (D) mean: -0.019, median: -0.017 
+
+Loss vs Draw All Competitions 17/18 NWD
+
+#mean: -0.027, median: -0.032 (L) vs (D) mean: -0.019, median: -0.017 
+
+
+Win vs Loss Domestic Competitions 17/18 NWD
+
+# mean: 0.013, median: 0.0081 (W) vs (L) mean: -0.043, median: -0.046 
+
+Win vs Draw Domestic Competitions 17/18 NWD
+
+# mean: 0.015, median: 0.00096 (W) vs (D) mean: -0.019, median: -0.017 
+
+
+Win vs Loss Domestic Competitions 18/19 NWD
+
+# mean: 0.016, median: 0.013 (W) vs (L) mean: -0.0020, median: -0.0067 
+
+Win vs Draw Domestic Competitions 18/19 NWD
+
+# mean: 0.015, median: 0.00096 (W) vs (D) mean: -0.014, median: -0.0068
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
